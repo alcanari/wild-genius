@@ -1,0 +1,24 @@
+{
+  "name": "genius-lyrics",
+  "version": "0.0.1",
+  "description": "Search for song lyrics on Genius",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "body-parser": "*",
+    "node-genius": "*"
+  },
+  "engines": {
+    "node": "8.1.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "genius"
+  ]
+}
